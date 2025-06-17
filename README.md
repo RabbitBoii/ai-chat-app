@@ -6,7 +6,7 @@
 
 <br />
 <div align="center">
-    <img src="readme_images\ai-chat-app-logo.png" alt="Logo" width="200" height="200">
+    <img src="readme_images\reyna.png" alt="Logo" width="200" height="200">
   </a>
 <h3 align="center">ai-chat-app</h3>
 
