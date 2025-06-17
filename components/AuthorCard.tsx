@@ -25,7 +25,7 @@ export function AuthorCard() {
           <div className="flex items-center justify-center">
             <div className="flex flex-col ml-4">
               <h4 className="scroll-m-20 text-xl font-semibold tracking-tight">
-                Vivek Lahole
+                Chetan Atram
               </h4>
               <Separator className="bg-primary/10" />
               <p>
@@ -40,12 +40,12 @@ export function AuthorCard() {
       </CardContent>
       <CardFooter className="flex justify-between">
         <Button variant="outline" size={"icon"}>
-          <a href="https://github.com/Vivek-Lahole">
+          <a href="https://github.com/RabbitBoii">
             <GithubIcon />
           </a>
         </Button>
         <Button variant="outline" size={"icon"}>
-          <a href="https://www.linkedin.com/in/vivek-lahole-4b62581b9/">
+          <a href="https://www.linkedin.com/in/chetan-atram/">
             <LinkedinIcon />
           </a>
         </Button>
