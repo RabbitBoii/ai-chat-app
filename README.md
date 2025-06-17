@@ -49,7 +49,7 @@ Keep an eye on the updates page for the latest scoop. Cheers to creating somethi
 
 ## Behind The Scenes
 
-![image](https://github.com/RabbitBoii/ai-chat-app/readme_images/297854660-758802bb-7578-4652-be4a-957b4dd08795.png)
+![image](readme_images/297854660-758802bb-7578-4652-be4a-957b4dd08795.png)
 
 ## Features
 
